@@ -1,7 +1,7 @@
 const button = document.getElementById("button-converter")
 const selectBot = document.getElementById("select-bot")
 
-const dolar = 5
+const dolar = 5.3
 const euro = 6
 const biticoin = 230000
 
